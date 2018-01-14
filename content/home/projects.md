@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 widget = "projects"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 
 title = "Projects"
