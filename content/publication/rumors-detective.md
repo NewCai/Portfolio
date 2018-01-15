@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "rumors_detective/liuyan.png"
+image = "rumors_detective/liuyan.jpeg"
 #caption = "My caption :smile:"
 
 +++
@@ -84,10 +84,10 @@ Rumors Detective, 流言侦探(Chinese), is an interactive fiction game inspired
   <img src="/img/rumors_detective/rd_thebeststory.png" width="60%" height="60%"/>
   
 
-  <img src="/img/rumors_detective/p1.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/p2.png" width="60%" height="60%"/> 
-  <img src="/img/rumors_detective/p3.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/p4.png" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/p1.jpeg" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/p2.jpeg" width="60%" height="60%"/> 
+  <img src="/img/rumors_detective/p3.jpeg" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/p4.jpeg" width="60%" height="60%"/>
 
 
 

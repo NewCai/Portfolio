@@ -77,8 +77,12 @@ We dveloped differnt series of games combing various gameplay and cartoon charac
 * Developed 15+ educational games with Cocos2d-x and in-house game engine.
 
 
-  <img src="/img/monkey_run/1.jpg"/>
-  <img src="/img/monkey_run/3.jpg"/> 
-  <img src="/img/monkey_run/5.jpg"/>
-  <img src="/img/monkey_run/6.jpg"/>
+  <img src="/img/xtc/1.jpeg"/>
+  <img src="/img/xtc/2.jpeg"/> 
+  <img src="/img/xtc/3.jpeg"/>
+  <img src="/img/xtc/4.jpeg"/>
+  <img src="/img/xtc/5.jpeg"/>
+  <img src="/img/xtc/6.jpeg"/> 
+  <img src="/img/xtc/7.jpeg"/>
+  <img src="/img/xtc/8.jpeg"/>
 
