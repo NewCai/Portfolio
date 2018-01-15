@@ -64,7 +64,7 @@ image = "xtc/xtc.jpeg"
 <center>
 # Introduction
 </center>
-The mobile revolution changed our world. Various apps enrich our life. We wanted to bring the new possibilities created by the revolution to the education field. That is the reason the Little Genius Tablet was created.
+The mobile revolution changed our world. Various apps have affected our everyday lives profoundly. We wanted to bring the new possibilities created by the revolution to the education field. That is the reason the Little Genius Tablet was created.
 
 We dveloped several series of games combing various gameplay and cartoon characters to help kids learn math, Englsh, Chinese characters and the world.
 
