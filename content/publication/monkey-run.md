@@ -1,9 +1,9 @@
 +++
-title = "Rumers Detective"
-date = "2017-07-01"
+title = "Monkey Run"
+date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["WoodenWolf Studio"]
+authors = ["Zeyong Cai"]
 
 # Publication type.
 # Legend:
@@ -18,9 +18,9 @@ authors = ["WoodenWolf Studio"]
 
 # Publication name and optional abbreviated version.
 # publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
- ublication_short = "WoodenWolf Studio"
+# ublication_short = "WoodenWolf Studio"
 
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract_short = "A platform running game developed with LibGDX. Attained 300,000+ downloads on Google Play."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -46,11 +46,10 @@ selected = true
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "IOS", url = "http://example.org"},
-              {name = "Android", url = "http://example.org"}]
+url_custom = [{name = "Android", url = "https://play.google.com/store/apps/details?id=com.NewCai.monkeyrun"}]
 
 # Does the content use math formatting?
-math = true
+math = false
 
 # Does the content use source code highlighting?
 highlight = true
@@ -58,13 +57,20 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "rumors_detective/liuyan.png"
+image = "monkey_run/theme.png"
 #caption = "My caption :smile:"
 
 +++
 <center>
-# Awards Nomination
+# Introduction
 </center>
-  <img src="/img/rumors_detective/rd_thebestgame.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/rd_thebestindiegame.png" width="60%" height="60%"/> 
-  <img src="/img/rumors_detective/rd_thebeststory.png" width="60%" height="60%"/>
+Monkey Run is a platform running game with only one-finger control. Two levels of jump are designed, an amazing long-jump and a naughty short-jump. Your goal is to run
+through the forest and avoid enemies to grab as many as fruits.
+
+Monkey Run is the first game I made. I designed and developed the game independently with royalty-free art works.
+
+
+  <img src="/img/monkey_run/1.jpg"/>
+  <img src="/img/monkey_run/3.jpg"/> 
+  <img src="/img/monkey_run/5.jpg"/>
+  <img src="/img/monkey_run/6.jpg"/>

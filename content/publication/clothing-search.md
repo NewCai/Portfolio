@@ -28,7 +28,7 @@ abstract_short = "A mobile visual clothing search system is presented whereby a 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -14,15 +14,22 @@ subtitle = ""
 weight = 60
 
 +++
+**Senior Software Engineer** at RapidInnovative Games, Shenzhen, China
 
-This is an example of using the *custom* widget to create your own homepage section.
+Oct. 2015 – Apr. 2017
 
-I am a teaching instructor for the following courses at University X:
+- Tactile Wars Chinese Ver. Development
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+**Co-Founder & Software Engineer** at WoodenWolf Studio, Shenzhen, China
+
+Mar. 2015 – Oct. 2015
+
+- Cowboy VS Samurai Development
+
+**Lead Software Engineer** at BBK Electronics, Shenzhen, China
+
+Jul. 2013 – Mar. 2015
+
+- Led and mentored a team in developing educational games with Cocos2d-x
+- Cocos2d-x engine development
+- Educational games development
