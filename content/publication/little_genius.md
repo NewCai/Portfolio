@@ -68,16 +68,17 @@ The mobile revolution changed our world. We wanted to bring the new possibilitie
 
 We dveloped differnt series of games combing various gameplay and cartoon characters to help kids learn math, Englsh, Chinese characters and the world.
 
-
-  <img src="/img/monkey_run/1.jpg"/>
-  <img src="/img/monkey_run/3.jpg"/> 
-  <img src="/img/monkey_run/5.jpg"/>
-  <img src="/img/monkey_run/6.jpg"/>
-
-  <center>
+<center>
 # Duties
 </center>
 
 * Led and mentored a team in developing educational games with Cocos2d-x.
 * Developed several new features for Cocos2d-x such as playing video and multiple-channel music playing.
 * Developed 15+ educational games with Cocos2d-x and in-house game engine.
+
+
+  <img src="/img/monkey_run/1.jpg"/>
+  <img src="/img/monkey_run/3.jpg"/> 
+  <img src="/img/monkey_run/5.jpg"/>
+  <img src="/img/monkey_run/6.jpg"/>
+

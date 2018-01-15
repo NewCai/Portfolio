@@ -72,6 +72,17 @@ and your base's defenses using technological advances in color.
 
 The Chinese version (expected release in late 2018) is greatly re-engineered to support MOBA while keeping the core gameplay. You can fight with other players in real-time in a 1v1 or 3v3 mode. We also re-designed the skill system and the technology tree to make the MOBA experience more captivating. A replay system is added based on the MOBA framework. Players could review their battle records and learn from other players. A guild system and an in-game chatting system are developed to enhance social experiences.
 
+<center>
+# Duties
+
+</center>
+
+* Designed and implemented a lockstep system to achieve multiplayer real-time PVP (Player Versus Player), including a two-layer structure to decouple the simulation loop from the rendering loop, a fixed-point math lib to make the game logic fully deterministic across all the machines and a Unity-like Coroutine.
+* Developed a replay system based on the lockstep system, which could record a 5-min game battle in a tiny file (less than 10KB).
+* Designed and implemented a fast and reliable networking framework with UDP and [KCP](https://github.com/skywind3000/kcp) (an automatic repeat request protocol), supporting smooth real-time PVP in a poor network connection (250ms+ delay, 100ms+ jitter) by combining with client-prediction.
+* Designed and implemented a hot update system to allow updating data without re-downloading the client.
+* Optimized the performance to support low-end devices to run smoothly in a game battle involving 1000+ entities.
+
 {{< youtube 1J1UXGz_hHo >}}
 
   <img src="/img/tactile_wars/1.jpg"/>
@@ -84,13 +95,4 @@ The Chinese version (expected release in late 2018) is greatly re-engineered to 
   <img src="/img/tactile_wars/t4.png"/>
   <img src="/img/tactile_wars/t5.png"/>
   <img src="/img/tactile_wars/t6.png"/>
-<center>
-# Duties
 
-</center>
-
-* Designed and implemented a lockstep system to achieve multiplayer real-time PVP (Player Versus Player), including a two-layer structure to decouple the simulation loop from the rendering loop, a fixed-point math lib to make the game logic fully deterministic across all the machines and a Unity-like Coroutine.
-* Developed a replay system based on the lockstep system, which could record a 5-min game battle in a tiny file (less than 10KB).
-* Designed and implemented a fast and reliable networking framework with UDP and [KCP](https://github.com/skywind3000/kcp) (an automatic repeat request protocol), supporting smooth real-time PVP in a poor network connection (250ms+ delay, 100ms+ jitter) by combining with client-prediction.
-* Designed and implemented a hot update system to allow updating data without re-downloading the client.
-* Optimized the performance to support low-end devices to run smoothly in a game battle involving 1000+ entities.

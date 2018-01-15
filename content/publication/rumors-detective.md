@@ -66,18 +66,6 @@ image = "rumors_detective/liuyan.png"
 # Introduction
 </center>
 Rumors Detective, 流言侦探(Chinese), is an interactive fiction game inspired by how people communicate with each other nowadays. It is a life story of ten Chinese young people. The ten characters in the game will be involved in a series of murders, and your goal is to help them to find the truth. You need to find clues by interacting with the ten characters in a WeChat-like interface and reading a diary. Your choices will decide how the story ends. To create an immersive experience, we wrote a thirty thousand word novel. There are more than 20 hours of content to enjoy the story.
-  <img src="/img/rumors_detective/p1.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/p2.png" width="60%" height="60%"/> 
-  <img src="/img/rumors_detective/p3.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/p4.png" width="60%" height="60%"/>
-
-<center>
-# Awards Nomination
-</center>
-  <img src="/img/rumors_detective/rd_wandoujia.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/rd_thebestgame.png" width="60%" height="60%"/>
-  <img src="/img/rumors_detective/rd_thebestindiegame.png" width="60%" height="60%"/> 
-  <img src="/img/rumors_detective/rd_thebeststory.png" width="60%" height="60%"/>
 
 <center>
 # Duties
@@ -86,3 +74,20 @@ Rumors Detective, 流言侦探(Chinese), is an interactive fiction game inspired
 * Developed the whole game with Unity independently, including a Line-like chat system and an interactive text with UGUI and TextMesh Pro.
 * Developed a data-driven structure to help the designer create content.
 * Co-designed the gameplay.
+
+<center>
+# Awards Nomination
+</center>
+  <img src="/img/rumors_detective/rd_wandoujia.png" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/rd_thebestgame.png" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/rd_thebestindiegame.png" width="60%" height="60%"/> 
+  <img src="/img/rumors_detective/rd_thebeststory.png" width="60%" height="60%"/>
+  
+
+  <img src="/img/rumors_detective/p1.png" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/p2.png" width="60%" height="60%"/> 
+  <img src="/img/rumors_detective/p3.png" width="60%" height="60%"/>
+  <img src="/img/rumors_detective/p4.png" width="60%" height="60%"/>
+
+
+
