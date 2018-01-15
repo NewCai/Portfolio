@@ -65,14 +65,14 @@ image = "rumors_detective/liuyan.jpeg"
 <center>
 # Introduction
 </center>
-Rumors Detective, 流言侦探(Chinese), is an interactive fiction game inspired by how people communicate with each other nowadays. It is a life story of ten Chinese young people. The ten characters in the game will be involved in a series of murders, and your goal is to help them to find the truth. You need to find clues by interacting with the ten characters in a WeChat-like interface and reading a diary. Your choices will decide how the story ends. To create an immersive experience, we wrote a thirty thousand word novel. There are more than 20 hours of content to enjoy the story.
+Rumors Detective, 流言侦探(Chinese), is an interactive fiction game inspired by how people communicate with each other nowadays. It is a life story about ten Chinese young people. The ten characters in the game will be involved in a series of murders, and your goal is to help them to find the truth. You need to find clues by interacting with the ten characters in a WeChat-like interface and reading a diary. Your choices will decide how the story ends. To create an immersive experience, we wrote a thirty thousand word novel. There are more than 20 hours of content to enjoy the story.
 
 <center>
 # Duties
 </center>
 
-* Developed the whole game with Unity independently, including a Line-like chat system and an interactive text with UGUI and TextMesh Pro.
-* Developed a data-driven structure to help the designer create content.
+* Developed the whole game with Unity independently, including a Wechat-like chat system and an interactive text with UGUI and TextMesh Pro.
+* Developed a data-driven architecture to help the designer create content.
 * Co-designed the gameplay.
 
 <center>
