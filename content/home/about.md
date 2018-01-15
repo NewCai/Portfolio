@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in Software Engineering"
   institution = "Arizona State University, Tempe, Arizona"
-  year = 2019
+  year = "Expected 2019"
 
 [[education.courses]]
   course = "BSc in Electrical and Electronics Engineering"

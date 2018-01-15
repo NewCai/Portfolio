@@ -20,7 +20,7 @@ authors = ["RapidInnovative Games", "Ankama Games"]
 # publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
 # ublication_short = "WoodenWolf Studio"
 
-abstract_short = "Tactile Wars is a strategy arcade game originally developed by Ankama Games, and was featrued by the Apple App Store in more than 150 contries. The Chinese versrion is geatly re-designed and re-enginered to support MOBA while keeping the core gameplay."
+abstract_short = "Tactile Wars is a strategy arcade game originally developed by Ankama Games and was featured by the Apple App Store in more than 150 countries. The Chinese version is greatly re-engineered to support MOBA while keeping the core gameplay. Many new features were added to enhance game experiences like replay system, guild system, in-game chatting, etc."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -70,7 +70,7 @@ As the leader of a troop of pigments, draw your orders on the screen and conquer
 Paint enemy camps in your hue and defend your territory during intense and colorful battles. Upgrade your army
 and your base's defenses using technological advances in color.
 
-The Chinese version (in development) is greatly re-designed and re-engineered to support MOBA while keeping the core gameplay. You can fight with other players in real-time in a 1v1 or 3v3 mode.
+The Chinese version (expected release in late 2018) is greatly re-engineered to support MOBA while keeping the core gameplay. You can fight with other players in real-time in a 1v1 or 3v3 mode. We also re-designed the skill system and the technology tree to make the MOBA experience more captivating. A replay system is added based on the MOBA framework. Players could review their battle records and learn from other players. A guild system and an in-game chatting system are developed to enhance social experiences.
 
 {{< youtube 1J1UXGz_hHo >}}
 
