@@ -20,7 +20,7 @@ authors = ["Zeyong Cai"]
 # publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
 # ublication_short = "WoodenWolf Studio"
 
-abstract_short = "A platform running game developed with LibGDX. Attained 300,000+ downloads on Google Play."
+abstract_short = "A platform running game developed with LibGDX. Attained 300,000+ downloads in Google Play."
 
 # Featured image thumbnail (optional)
 image_preview = ""
